@@ -1,0 +1,16 @@
+
+testAvgStockPriceLength=true
+testBoardOfDirectorsLength=true
+testPostStockPriceDetailsFailed=true
+testTurnoverLength=true
+testCompanyNameLength=true
+testCurrentStockPriceLength=true
+testCompanyProfileLength=true
+testStockPriceListLength=true
+testStockPriceDateLength=true
+testMinStockPriceLength=true
+testMaxStockPriceLength=true
+testStockPriceTimeLength=true
+testStockExchangeLength=true
+testPostCompanyDetailsFailed=true
+testCompanyCEOLength=true
